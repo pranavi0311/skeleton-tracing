@@ -1,5 +1,6 @@
 # skeleton-tracing
 Real-time human pose detection using MediaPipe and OpenCV.
+This is usually used for virtual try on models .
 ## Libraries Used
 - Python 3.9
 - MediaPipe 0.10.11
